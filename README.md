@@ -1,4 +1,4 @@
-Hi there 👋
+Hey there 👋
 
 I'm Jason Kwan, a software developer passionate about game development and learning new skills!
 
